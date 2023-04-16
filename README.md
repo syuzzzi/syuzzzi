@@ -1,4 +1,4 @@
-<div align = "center"> <h1> Hello, I'm suji👋 </h1> 
+<div align = "center"> <h1> Hello, I'm suji🐰 </h1> 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcsj1430%2F&count_bg=%2399E5FF&title_bg=%23FDBBBB&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
   
   <br><br>
