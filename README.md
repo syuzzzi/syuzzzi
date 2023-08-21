@@ -23,7 +23,4 @@
   <br><br>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=csj1430)](https://solved.ac/csj1430)
-
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syuzzzi&layout=compact">
 </div>
