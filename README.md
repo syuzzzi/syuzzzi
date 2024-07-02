@@ -3,7 +3,10 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcsj1430%2F&count_bg=%2399E5FF&title_bg=%23FDBBBB&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
   
   <br><br>
+
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=csj1430)](https://solved.ac/csj1430)
   
+  <br>
   <h3>📖tech stack📖</h3> 
   
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
