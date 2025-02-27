@@ -4,9 +4,6 @@
   
   <br><br>
 
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=csj1430)](https://solved.ac/csj1430)
-  
-  <br>
   <h3>📖tech stack</h3> 
   
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -29,5 +26,11 @@
   <br>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/VScode-23AAF2?style=flat&logo=vscode&logoColor=white"/>
-
+  <br>
+  <br>
+  <br>
+   
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=csj1430)](https://solved.ac/csj1430)
+  
+ 
 </div>
